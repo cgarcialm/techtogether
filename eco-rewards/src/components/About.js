@@ -16,7 +16,7 @@ function About(props) {
                             <p class="card-text">Full Stack Developer</p>
                             <a href="https://www.linkedin.com/in/cgarcialopez/" class="btn btn-primary">
                                 <FontAwesomeIcon icon={faLinkedin} className="pe-2" />
-                                LinkedIn Page
+                                LinkedIn
                             </a>
                         </div>
                     </div>
@@ -31,7 +31,7 @@ function About(props) {
                             </p>
                             <a href="https://www.linkedin.com/in/yytong39/" class="btn btn-primary">
                                 <FontAwesomeIcon icon={faLinkedin} className="pe-2" />
-                                LinkedIn Page
+                                LinkedIn
                             </a>
                         </div>
                     </div>
@@ -46,7 +46,7 @@ function About(props) {
                             </p>
                             <a href="https://www.linkedin.com/in/rachel-fingerhut" class="btn btn-primary">
                                 <FontAwesomeIcon icon={faLinkedin} className="pe-2" />
-                                LinkedIn Page
+                                LinkedIn
                             </a>
                         </div>
                     </div>
@@ -61,7 +61,7 @@ function About(props) {
                             </p>
                             <a href="https://www.linkedin.com/in/yu-meredith-luo/" class="btn btn-primary">
                                 <FontAwesomeIcon icon={faLinkedin} className="pe-2" />
-                                LinkedIn Page
+                                LinkedIn
                             </a>
                         </div>
                     </div>
