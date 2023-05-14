@@ -25,7 +25,6 @@ function Main(props) {
                 </div>
                 <div className="col-6">
                     <img src={image} alt="" />
-
                 </div>
             </div>
         </div>
