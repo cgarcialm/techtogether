@@ -10,8 +10,8 @@ function Main(props) {
         <div className="container border-bottom">
             <div className="row">
                 <div className="col-6">
-                    <h1 className="display-4">Carbon Diary & Sustainable Guide</h1>
-                    <p className="lead">Understand and reduce your carbon footprint</p>
+                    <h1 className="display-4">Green Actions & Rich Rewards</h1>
+                    <p className="lead">Go Green, Earn Rewards: Embrace Eco-Friendly Living and Harvest the Benefits!</p>
                     <div className="main-btn">
                         <button type="button" className="app-btn btn btn-lg btn-success">
                             <FontAwesomeIcon icon={faApple} className="pe-2" />
