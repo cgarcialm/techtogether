@@ -1,0 +1,15 @@
+.desc-row {
+    text-align: center;
+    align-items: center;
+    height: 100px;
+}
+
+img.col-img {
+    width: 130px;
+    max-width: 100%;
+}
+
+a {
+    font-weight: 500;
+    color: #4bb377;
+}
