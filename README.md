@@ -1,10 +1,12 @@
 # Eco-Rewards
 
-Built with **React.js**
-
 ![Logo](./eco-rewards/src/images/eco-rewards-logo.png)
 
-# About the EcoRewards
+[Website deployed with Azure](https://gentle-plant-0fba2ab1e.3.azurestaticapps.net/)
+
+Built with **React.js**
+
+## About the EcoRewards
 
 The website introduces EcoRewards app that combines sustainability and rewards. Users can easily track their activities and calculate their carbon footprint, gaining valuable insights into their environmental impact. By earning points for eco-friendly choices, individuals are encouraged to make sustainable decisions in their daily lives. The website also provides the opportunity to redeem earned points at a network of conscious businesses, where users can enjoy exclusive rewards and discounts. 
 
