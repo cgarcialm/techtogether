@@ -1,6 +1,7 @@
 # Eco-Rewards
 
 Built with **React.js**
+
 **Team members**: Cecilia, Alexis, Rachel, Meredith
 
 
