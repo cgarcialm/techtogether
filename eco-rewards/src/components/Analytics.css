@@ -1,0 +1,19 @@
+.carousel {
+  width:20rem;
+  height:auto;
+  margin: 0 auto;
+}
+
+.carousel-control-next{
+    filter: invert(100%);
+    margin-right: -15rem;
+}
+
+.carousel-control-prev{
+    filter: invert(100%);
+    margin-left: -15rem;
+}
+
+.carousel-indicators {
+    filter: invert(100%);
+}
