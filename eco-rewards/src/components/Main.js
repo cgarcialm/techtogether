@@ -3,6 +3,8 @@ import "./Main.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faApple, faGoogle } from "@fortawesome/free-brands-svg-icons";
 
+import image from "../images/eco-rewards-logo.png";
+
 function Main(props) {
     return (
         <div className="container border-bottom">
@@ -21,7 +23,9 @@ function Main(props) {
                         </button>
                     </div>
                 </div>
-                <div className="col-6">Image here</div>
+                <div className="col-6">
+                    <img src={image} alt="" />
+                </div>
             </div>
         </div>
     );
