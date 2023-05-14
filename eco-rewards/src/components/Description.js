@@ -26,7 +26,7 @@ function Description(props) {
                         </a>. 
                         </p>
                         <p class="lead">Monitor your daily actions and understand the magnitude 
-                        of your contribution to climate change in order to be able yo make informed 
+                        of your contribution to climate change in order to make informed 
                         decisions and reduce your footprint.
                         </p>
                     </div>
