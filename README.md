@@ -31,5 +31,10 @@ npm start
 [User Interface link 2](https://tinyurl.com/eco-rewards-figma-2)
 
 ## Team members
+<img src="https://github.com/cgarcialm/techtogether/assets/62184644/efd873ed-1551-452b-855a-521a76c1d3d1" width="20" height="20"/> [Cecilia](https://www.linkedin.com/in/cgarcialopez/)
 
-Cecilia, Alexis, Rachel, Meredith
+<img src="https://github.com/cgarcialm/techtogether/assets/62184644/efd873ed-1551-452b-855a-521a76c1d3d1" width="20" height="20"/> [Alexis](https://www.linkedin.com/in/yytong39/)
+
+<img src="https://github.com/cgarcialm/techtogether/assets/62184644/efd873ed-1551-452b-855a-521a76c1d3d1" width="20" height="20"/> [Rachel](https://www.linkedin.com/in/rachel-fingerhut)
+
+<img src="https://github.com/cgarcialm/techtogether/assets/62184644/efd873ed-1551-452b-855a-521a76c1d3d1" width="20" height="20"/> [Meredith](https://www.linkedin.com/in/yu-meredith-luo/)
