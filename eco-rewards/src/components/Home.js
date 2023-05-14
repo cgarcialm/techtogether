@@ -7,6 +7,7 @@ function Home(props) {
         <div>
             <Main />
             <Analytics />
+            <Description />
         </div>
     );
 }
