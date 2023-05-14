@@ -1,15 +1,26 @@
-.carousel {
-  width:20rem;
-  height:auto;
-  margin: 0 auto;
+.container {
+    padding-bottom: 30px;
 }
 
-.carousel-control-next{
+.carousel-inner {
+    height: 700px;
+}
+
+.carousel-item {
+    object-fit: cover;
+}
+.carousel {
+    width: 40rem;
+    height: auto;
+    margin: 0 auto;
+}
+
+.carousel-control-next {
     filter: invert(100%);
     margin-right: -15rem;
 }
 
-.carousel-control-prev{
+.carousel-control-prev {
     filter: invert(100%);
     margin-left: -15rem;
 }
