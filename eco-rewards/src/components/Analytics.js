@@ -40,7 +40,7 @@ function Analytics(props) {
                     <div className="carousel-item">
                         <div className="row">
                             <div className="col-6">
-                                <h3 className="display-6">Redeem rewards in eco-concious shops</h3>
+                                <h3 className="display-6">Redeem rewards in eco-conscious shops</h3>
                             </div>
                             <div className="col-6">
                                 <img src={AnalyticsImg} className="d-block w-100" alt="Analytics" />
